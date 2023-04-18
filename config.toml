@@ -86,8 +86,9 @@ paginate = 5
         name = "Blog"
         url = "/blog"
 
-  [languages.jp]
+  [languages.ja]
     languageName = "日本語"
+    contentDir = "content/ja"
     title = "Studio Ripe"
     subtitle = "素晴らしいゲームとオープンソースツール"
     owner = "Studio Ripe"
@@ -103,12 +104,12 @@ paginate = 5
     minuteReadingTime = "min read"
     words = "words"
 
-    [languages.jp.params.logo]
+    [languages.ja.params.logo]
       logoText = "Studio Ripe"
       logoHomeLink = "/"
 
-    [languages.jp.menu]
-      [[languages.jp.menu.main]]
+    [languages.ja.menu]
+      [[languages.ja.menu.main]]
         identifier = "games"
         name = "ゲーム"
-        url = "/jp/games"
+        url = "/ja/games"
