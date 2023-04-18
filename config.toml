@@ -88,7 +88,7 @@ paginate = 5
 
   [languages.ja]
     languageName = "日本語"
-    contentDir = "content/ja"
+    contentDir = "content/ja-JP"
     title = "Studio Ripe"
     subtitle = "素晴らしいゲームとオープンソースツール"
     owner = "Studio Ripe"
@@ -106,10 +106,38 @@ paginate = 5
 
     [languages.ja.params.logo]
       logoText = "Studio Ripe"
-      logoHomeLink = "/"
+      logoHomeLink = "/ja"
 
     [languages.ja.menu]
       [[languages.ja.menu.main]]
         identifier = "games"
         name = "ゲーム"
         url = "/ja/games"
+  
+  [languages.ko]
+    languageName = "한국어"
+    contentDir = "content/ko-KR"
+    title = "Studio Ripe"
+    subtitle = "매력적인 게임과 오픈 소스 도구"
+    owner = "Studio Ripe"
+    keywords = "게임, 프로그래밍, 도구"
+    copyright = "Studio Ripe"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.ko.params.logo]
+      logoText = "Studio Ripe"
+      logoHomeLink = "/ko"
+
+    [languages.ko.menu]
+      [[languages.ja.menu.main]]
+        identifier = "games"
+        name = "게임"
+        url = "/ko/games"
