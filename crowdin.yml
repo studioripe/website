@@ -1,0 +1,7 @@
+files:
+  - source: content/*.md
+    ignore:
+      - '*.jp.md'
+    translation: /content/%two_letters_code%/%original_file_name%
+  - source: /content/blog/*.md
+    translation: /content/%two_letters_code%/blog/%original_file_name%
