@@ -50,7 +50,7 @@
     {{ partial "posts_pagination.html" . }}
   {{ end }}
 
-  {{ if not (.Params.hideComments | default false) }}
+  {{ if .Date }}
     {{ partial "comments.html" . }}
   {{ end }}
 </article>
