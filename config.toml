@@ -50,7 +50,6 @@ paginate = 5
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-
 [params.twitter]
   creator = ""
   site = ""
@@ -59,10 +58,10 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Studio Ripe"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
-    keywords = ""
-    copyright = "Studio Ripe"
+    subtitle = "Engaging Games and Open Source Tools"
+    owner = "Studio Ripe"
+    keywords = "game studio, adelaide, open source"
+    copyright = "2023 Studio Ripe"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -90,9 +89,9 @@ paginate = 5
   [languages.jp]
     languageName = "日本語"
     title = "Studio Ripe"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
-    keywords = ""
+    subtitle = "素晴らしいゲームとオープンソースツール"
+    owner = "Studio Ripe"
+    keywords = "ゲーム, プログラミング, ブログ"
     copyright = "Studio Ripe"
     menuMore = "Show more"
     readMore = "Read more"
@@ -113,4 +112,3 @@ paginate = 5
         identifier = "games"
         name = "ゲーム"
         url = "/jp/games"
-
