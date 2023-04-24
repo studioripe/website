@@ -48,6 +48,11 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build TinaCMS
+        env:
+          TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: npx tinacms build
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
