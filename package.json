@@ -1,0 +1,24 @@
+{
+  "name": "studioripe",
+  "version": "1.0.0",
+  "description": "This repo contains the live website for https://studioripe.com, the website is built using Hugo with the Hugo Terminal theme as the basis and Giscus for the commenting system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studioripe/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studioripe/website/issues"
+  },
+  "homepage": "https://github.com/studioripe/website#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.6",
+    "tinacms": "^1.4.6"
+  }
+}
