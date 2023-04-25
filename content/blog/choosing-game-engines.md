@@ -1,9 +1,13 @@
 ---
-title: "Choosing A Game Engine"
-date: "2023-04-18"
-cover: "img/choosing-game-engines.webp"
-description: "Choosing a game engine for your first game or new prototype can be difficult and if wrong can waste time. In this post we compare two of the major engines from a existing C# developer's perspective."
+title: Choosing A Game Engine
+date: '2023-04-18'
+cover: img/choosing-game-engines.webp
+description: >-
+  Choosing a game engine for your first game or new prototype can be difficult
+  and if wrong can waste time. In this post we compare two of the major engines
+  from a existing C# developer's perspective.
 ---
+
 
 Choosing a game engine for your first game or new prototype can be difficult and if wrong can waste time. As someone who has experience in C# we will be focusing on two major game engines that have good support for C# and these are Unity and Godot. In this post we will be analysing both the benefits and disadvantages of each engine in the context of developing a prototype or first game.
 
