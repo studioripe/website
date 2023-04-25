@@ -39,6 +39,8 @@ export default defineConfig({
             type: "datetime",
             name: "date",
             label: "Date",
+            dateFormat: 'YYYY-MM-DD',
+            timeFormat: false,
             required: true,
           },
           {
