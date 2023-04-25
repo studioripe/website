@@ -1,6 +1,6 @@
 ---
 title: 3 Simpler Alternatives to Blender
-date: 2023-04-25T14:30:00.000Z
+date: 2023-04-25
 description: >-
   Just getting started with game development or finding Blender too hard to use?
   In this article we look three simpler alternatives to blender that might be
