@@ -1,6 +1,7 @@
 ---
-title: "Games"
+title: Games
 ---
+
 
 ## Platformer Game (Coming Soon)
 
