@@ -36,11 +36,10 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "datetime",
+            type: "string",
             name: "date",
             label: "Date",
-            dateFormat: 'YYYY-MM-DD',
-            timeFormat: false,
+            description: "Date of Publish in YYYY-MM-DD format",
             required: true,
           },
           {
