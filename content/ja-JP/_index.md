@@ -1,3 +1,4 @@
-# 素晴らしいゲームとオープンソースツール
 
-Studio Ripeはアデレードを拠点とするインディーゲームデベロッパーで、魅力的なゲームの制作や、ゲーム開発に役立つオープンソースツールに力を入れています。
+# Engaging Games and Open Source Tools
+
+Studio Ripe is a Adelaide Based Indie Game Developer that focuses on creating engaging games, and open source tools to help with game development.
