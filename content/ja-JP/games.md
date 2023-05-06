@@ -1,7 +1,8 @@
 ---
-title: "ゲム"
+title: Games
 ---
 
-## プラットフォームゲーム (近日公開予定)
 
-最初のゲームは、2023年にリリースされる、魅力的な世界を持つプラットフォーマーになります。
+## Platformer Game (Coming Soon)
+
+Our first game will be a platformer with an engaging world that will be releasing in 2023.
