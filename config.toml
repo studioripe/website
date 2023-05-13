@@ -82,6 +82,10 @@ paginate = 5
         name = "Games"
         url = "/games"
       [[languages.en.menu.main]]
+        identifier = "tools"
+        name = "Tools"
+        url = "/tools"
+      [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
         url = "/blog"
